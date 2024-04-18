@@ -4,7 +4,7 @@ package Live2024;// 2D coordinate system class
 import java.awt.*;
 
 public class S2 {
-    static final V2 Origo=new V2(0,0);
+    static final V2 origin =new V2(0,0);
     V2 O;
     M2 S;
     M2 F;
